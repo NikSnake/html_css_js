@@ -35,3 +35,66 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+body{
+	font-family: arial, "helvetica neue", hevetica, sans-serif;
+}
+h1{
+	color: #445161;
+	font-size: 30px;
+}
+h2{
+	color: #445161;
+	font-size: 25px;
+}
+h3{
+	color: #445161;
+	font-size: 20px;
+}
+h4{
+	color: #445161;
+	font-size: 24px;
+}
+.text {
+	color: #333333;
+	line-height: 25px;
+}
+.bold {
+	color: #333333;
+	font-weight: bold;
+}
+.red {
+	color: #ff0000;
+}
+.align-right{
+	text-align: right;
+	color: #333333;
+}
+.transform{
+	text-transform: uppercase;
+	color: #333333;
+}
+.style{
+	font-style: italic;
+	color: #333333;
+}
+.text-decoration-underline{
+	text-decoration: underline;
+	color: #333333;
+}
+.align-center{
+	text-align: center;
+	color: #333333;
+}
+.text-decoration-line-through{
+	text-decoration: line-through;
+	color: #333333;
+}
+.font-family{
+	font-family: Times New Roman;
+	color: #333333;
+}
+.text-shadow{
+	text-shadow: 1px 1px 1px #000;
+	color: #333333;
+}
